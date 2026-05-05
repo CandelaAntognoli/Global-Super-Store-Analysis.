@@ -1,6 +1,8 @@
 # Global-Super-Store-Analysis.
 # Análisis de Inteligencia Comercial: Global Super Store 📊
 
+![Portada Global Super Store](img/global super store.png)
+
 Este proyecto consiste en un análisis integral de un dataset global de ventas multicanal utilizando **Google Sheets**. El objetivo principal fue transformar datos crudos en un sistema de toma de decisiones estratégico, identificando fugas de beneficios y oportunidades de expansión.
 
 ## 🚀 Resumen del Proyecto
